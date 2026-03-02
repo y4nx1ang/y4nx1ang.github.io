@@ -29,24 +29,21 @@ There should be whitespace between paragraphs. We recommend including a README, 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Junpeng Wan, **Yanxiang Bi**, Han Gao, Dave (Jing) Tian<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*34th USENIX Security Symposium (USENIX Security 25), August, 2025.*
 
-----
 
 ### &nbsp;&nbsp;Userspace Bypass: Accelerating Syscall-intensive Applications.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zhe Zhou, **Yanxiang Bi**, Junpeng Wan, Yangfan Zhou and Zhou Li.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*17th USENIX Symposium on Operating Systems Design and Implementation (OSDI '23),&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July, 2023.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*17th USENIX Symposium on Operating Systems Design and Implementation (OSDI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;23), July, 2023.*
 
-----
 
 ### &nbsp;&nbsp;MeshUp: Stateless Cache Side-channel Attack on CPU Mesh.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Junpeng Wan, **Yanxiang Bi**, Zhe Zhou, Zhou Li<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*In Proceedings of the 43th IEEE Symposium on Security and Privacy (S&P '22), May &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*In Proceedings of the 43th IEEE Symposium on Security and Privacy (S&P 22), May &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022.*
 
-----
 
 ### &nbsp;&nbsp;Boosting symbolic execution via constraint solving time prediction.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sicheng Luo, Hui Xu, **Yanxiang Bi**, Xin Wang, Yangfan Zhou<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*In Proceedings of the 30th ACM SIGSOFT International Symposium on Software Testing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Analysis (ISSTA ‘21), 2021.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*In Proceedings of the 30th ACM SIGSOFT International Symposium on Software Testing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Analysis (ISSTA 21), 2021.*
 
 ----
 
