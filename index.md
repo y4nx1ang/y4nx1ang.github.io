@@ -27,13 +27,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ### &nbsp;&nbsp;HubBub: Contention-Based Side-Channel Attacks on USB Hubs.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Junpeng Wan, **Yanxiang Bi**, Han Gao, Dave (Jing) Tian<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*34th USENIX Security Symposium (USENIX Security 25),&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August, 2025.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*34th USENIX Security Symposium (USENIX Security 25), August, 2025.*
 
 ----
 
 ### &nbsp;&nbsp;Userspace Bypass: Accelerating Syscall-intensive Applications.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zhe Zhou, **Yanxiang Bi**, Junpeng Wan, Yangfan Zhou and Zhou Li.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*17th USENIX Symposium on Operating Systems Design and Implementation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(OSDI '23), July, 2023.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*17th USENIX Symposium on Operating Systems Design and Implementation (OSDI '23),&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; July, 2023.*
 
 ----
 
