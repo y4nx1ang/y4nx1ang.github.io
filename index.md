@@ -52,7 +52,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Others
 
-### &nbsp;&nbsp;Back to the Future: Hacking and Securing Connection-based OAuth &nbsp;&nbspArchitectures in Integration Platforms and Agentic Frameworks
+### &nbsp;&nbsp;Back to the Future: Hacking and Securing Connection-based OAuth &nbsp;&nbsp Architectures in Integration Platforms and Agentic Frameworks
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kaixuan Luo, Xianbo Wang, Adonis Fung, **Yanxiang Bi**, Wing Cheong Lau<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Blackhat 2025, USA*
 
