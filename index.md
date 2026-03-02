@@ -6,12 +6,11 @@ layout: default
 
 ## Short Bio
 
-I am now a first-year Ph.D. student in the department of Information Engineering at the Chinese University of Hong Kong. I am fortunated to be advised by [Prof. Sze Yiu Chau](https://szeyiuchau.github.io/).
-
+I am now a fourth-year Ph.D. student in the department of Information Engineering at the Chinese University of Hong Kong. I am fortunated to be advised by [Prof. Sze Yiu Chau](https://szeyiuchau.github.io/). My research interests span computer hardware and network security.
 
 Before coming to CUHK, I obtained my M.E. degree from Fudan University under supervisor [Prof. Zhe Zhou](https://www.y-droid.com/zhe/) and got my B.S. degree in Computer Science and Technology from Ocean University of China in June 2019.
 
-My research interests include system security and Side-Channel attacks on computer hardwares. I am a new-comer to both fields, and feel free to contact me via email.  : )
+<!-- My research interests include system security and Side-Channel attacks on computer hardwares. I am a new-comer to both fields, and feel free to contact me via email.  : ) -->
 
 ---------
 <br>
@@ -26,15 +25,21 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <br>
 
 
+### &nbsp;&nbsp;HubBub: Contention-Based Side-Channel Attacks on USB Hubs.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Junpeng Wan, **Yanxiang Bi**, Han Gao, Dave (Jing) Tian<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*34th USENIX Security Symposium (USENIX Security 25),&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; August, 2025.*
+
+----
+
 ### &nbsp;&nbsp;Userspace Bypass: Accelerating Syscall-intensive Applications.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zhe Zhou, **Yanxiang Bi**, Junpeng Wan, Yangfan Zhou and Zhou Li.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Accepted by 17th USENIX Symposium on Operating Systems Design and Implementation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(OSDI '23), July, 2023.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*17th USENIX Symposium on Operating Systems Design and Implementation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(OSDI '23), July, 2023.*
 
 ----
 
 ### &nbsp;&nbsp;MeshUp: Stateless Cache Side-channel Attack on CPU Mesh.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Junpeng Wan, **Yanxiang Bi**, Zhe Zhou, Zhou Li<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*In Proceedings of the 43th IEEE Symposium on Security and Privacy (Oakland '22), May &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022.*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*In Proceedings of the 43th IEEE Symposium on Security and Privacy (S&P '22), May &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022.*
 
 ----
 
